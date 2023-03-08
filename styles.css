@@ -1,0 +1,28 @@
+/*styles*/
+
+body{
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+#title{
+    font-weight: bolder;
+    color: aquamarine;
+    background-color: deeppink;
+}
+
+body button{
+    text-align: left;
+    color: deeppink;
+    background-color: aquamarine;
+    font-weight: lighter;
+    font-family: unset;
+}
+
+ul,li,p{
+    text-align: left;
+}
+
+*{
+    background-color: antiquewhite;
+}
